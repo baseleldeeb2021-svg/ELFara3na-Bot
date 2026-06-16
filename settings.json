@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ELFara3na_fo2.aternos.me:56956",
-    "port": 56956,
+    "ip": "ELFara3",
+    "port": 5,
     "version": "",
     "try-creative": false
   },

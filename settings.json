@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "ELFara3na-Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "ELFara3na_Bot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "ELFara3na_fo2.aternos.me:56956",
+    "port": 56956,
     "version": "",
     "try-creative": false
   },
